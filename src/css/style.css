@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Additional styles */
+@import "additional-styles/utility-patterns.css";
+@import "additional-styles/flatpickr.css";
+
+@import "tailwindcss/utilities";
+
+#ajoutListe {
+  padding-top: 20px;
+}
+/* .grid grid-cols-12 gap-6 {
+  grid-template-columns: repeat(12, minmax(8, 1fr));
+} */
+img. {
+  width: 60%;
+}
+
+/* block img, video {
+    max-width: 100%;
+    height: auto;
+} */
